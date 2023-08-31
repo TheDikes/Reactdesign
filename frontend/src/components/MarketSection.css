@@ -1,0 +1,184 @@
+.group-inner,
+.icon {
+  position:absolute;
+  top: 501.58px;
+  left: 583.48px;
+  width: 507px;
+  height: 580px;
+}
+.group-inner {
+  top: 547.08px;
+  left: 520.99px;
+  width: 125px;
+  height: 123px;
+}
+.icon-awesome-play {
+  position: absolute;
+  top: 596.58px;
+  left: 572.74px;
+  width: 21.5px;
+  height: 24px;
+}
+.group-child1,
+.icon1 {
+  position: absolute;
+  top: 821.08px;
+  left: 732.49px;
+  width: 423px;
+  height: 339px;
+}
+.icon1 {
+  top: 840.08px;
+  left: 754.48px;
+  width: 409px;
+  height: 364px;
+}
+.were-leading-in-the {
+  position: absolute;
+  top: 529.58px;
+  left: 1234.47px;
+  font-size: var(--font-size-31xl);
+  letter-spacing: -0.02px;
+  line-height: 60px;
+  text-transform: uppercase;
+  color: var(--color-gray-200);
+}
+.lorem-ipsum-is2 {
+  font-weight: 500;
+}
+.we-have-35 {
+  font-size: var(--font-size-7xl);
+  color: var(--color-royalblue-100);
+}
+.lorem-ipsum-is-container {
+  position: absolute;
+  top: 699.58px;
+  left: 1234.47px;
+  line-height: 34px;
+  font-size: var(--font-size-lg);
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 968.08px;
+  left: 1235.49px;
+  border-radius: var(--br-81xl);
+  width: 585.99px;
+  height: 18.72px;
+}
+.group-child3,
+.group-child4,
+.group-child5 {
+  top: 1029.08px;
+  left: 1234.49px;
+  width: 586.99px;
+}
+.group-child4,
+.group-child5 {
+  top: 968.08px;
+  left: 1236.49px;
+  width: 469px;
+}
+.group-child5 {
+  top: 1029.08px;
+  left: 1235.49px;
+  width: 376px;
+}
+.consulting {
+  top: 995.58px;
+  left: 1237.47px;
+  letter-spacing: -0.28px;
+  color: var(--color-black);
+}
+.advices,
+.consulting,
+.div3,
+.div4 {
+  position: absolute;
+  line-height: 20px;
+}
+.advices {
+  top: 1056.58px;
+  left: 1236.47px;
+  letter-spacing: -0.28px;
+  color: var(--color-black);
+}
+.div3,
+.div4 {
+  top: 995.58px;
+  left: 1681.47px;
+  font-weight: 500;
+}
+.div4 {
+  top: 1056.58px;
+  left: 1583.47px;
+}
+.group-child6 {
+  position: absolute;
+  top: 1134.08px;
+  left: 1236.49px;
+  width: 70px;
+  height: 70px;
+}
+.icon-feather-phone-call {
+  position: relative;
+  width: 28px;
+  height: 28px;
+}
+.aivons,
+.div5,
+.have-any-question {
+  position: absolute;
+  top: 1138.58px;
+  left: 1324.47px;
+  font-size: var(--font-size-xl);
+  line-height: 29px;
+}
+.aivons,
+.div5 {
+  top: 1171.58px;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.aivons {
+  top: 502.08px;
+  left: 1987.97px;
+  font-size: var(--font-size-104xl);
+  letter-spacing: 55.84px;
+  line-height: 178px;
+  font-weight: 300;
+  color: var(--color-whitesmoke);
+  z-index: -0.9;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.path-7-icon {
+  position: absolute;
+  top: 1244.32px;
+  left: 265.47px;
+  width: 217.56px;
+  height: 431.14px;
+}
+.parent,
+.path-8-icon {
+  position: absolute;
+  top: 136.06px;
+  left: 1919.79px;
+  width: 265.68px;
+  height: 572.23px;
+}
+.parent {
+  top: 1795.42px;
+  left: -265.47px;
+  width: 2570.3px;
+  height: 1690.93px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-slategray);
+  font-family: var(--font-pop);
+  /* background-color: var(--color-white); */
+}

@@ -1,0 +1,112 @@
+.background-icon, 
+.web-1920-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 8285px;  
+}
+
+/* .web-1920-1-item {
+    top: 7570px;
+    height: 715px;  
+  } */
+
+  .web-1920-1-item {
+    top: 0;
+    width: 2219px;
+    height: 8331px;
+  }
+
+  .web-1920-1-inner {
+    position: absolute;
+    top: 149px;
+    left: 0.5px;
+    width: 1920px;
+    height: 1px;
+  }
+
+  .creativelogo {
+    position: absolute;
+    top: 8px;
+    left: 49px;
+    font-size: var(--font-size-lg);
+    line-height: 34px;
+    font-family: var(--font-jost);
+    color: var(--color-white);
+    text-align: left;
+  }
+
+  .logo-1-parent {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 59px;
+    left: 26px;
+    width: 161px;
+    height: 42px;
+  }
+
+  .line-icon,
+.web-1920-1-child1,
+.web-1920-1-child2 {
+  position: absolute;
+  top: 0;
+  left: 220.5px;
+  width: 1px;
+  height: 150px;
+}
+  .home {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    background-size: contain;
+    position: absolute;
+    top: 72px;
+    left: 270px;
+    font-size: var(--font-size-xl);
+    letter-spacing: 0.16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: var(--font-Poppins);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+  }
+
+  .need-help-92-666 {
+    position: absolute;
+    top: 44px;
+    left: 1702px;
+    font-size: var(--font-size-xl);
+    line-height: 33px;
+  }
+  .icon-feather-search {
+    position: absolute;
+    top: 59px;
+    left: 1600.38px;
+    width: 30px;
+    height: 30px;
+  }
+  .icon-simple-facebook {
+    position: absolute;
+    top: 57.11px;
+    left: 1485.2px;
+    width: 36px;
+    height: 35.78px;
+  }
+  .icon-ionic-logo-twitter {
+    position: absolute;
+    top: 61.5px;
+    left: 1423.82px;
+    width: 33.18px;
+    height: 27px;
+  }
+  .icon-ionic-logo-linkedin {
+    position: relative;
+    width: 26.99px;
+    height: 26.99px;
+  }

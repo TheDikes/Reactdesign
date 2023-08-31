@@ -1,0 +1,76 @@
+.businesses-growth,
+.businesses-growth1,
+.thought-leadership,
+.thought-leadership1 {
+  position: absolute;
+  top: 4027px;
+  left: 296px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.01px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.businesses-growth,
+.businesses-growth1,
+.thought-leadership1 {
+  top: 4028px;
+  left: 790px;
+}
+.businesses-growth,
+.businesses-growth1 {
+  top: 4057px;
+  left: 296px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.6px;
+  line-height: 34px;
+}
+.businesses-growth1 {
+  top: 4058px;
+  left: 790px;
+}
+.icon-metro-automobile {
+  position: relative;
+  width: 70.6px;
+  height: 55.15px;
+}
+.web-1920-1-child21 {
+  position: absolute;
+  top: 3845px;
+  left: 1212px;
+  width: 391px;
+  height: 344px;
+}
+.businesses-growth2,
+.thought-leadership2 {
+  position: absolute;
+  top: 3998px;
+  left: 1286px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.01px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.businesses-growth2 {
+  top: 4028px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.6px;
+  line-height: 34px;
+}
+
+.web-1920-1-child18,
+.web-1920-1-child19,
+.web-1920-1-child20 {
+  position: absolute;
+  top: 3619px;
+  left: 222px;
+  width: 467px;
+  height: 570px;
+}
+.web-1920-1-child19,
+.web-1920-1-child20 {
+  top: 3620px;
+  left: 716px;
+}
+.web-1920-1-child20 {
+  left: 1212px;
+}

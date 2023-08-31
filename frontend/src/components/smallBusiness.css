@@ -1,0 +1,21 @@
+.business-growth,
+.business-growth1,
+.business-growth2 {
+  position: absolute;
+  top: 7034px;
+  left: 365px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.01px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: var(--color-royalblue-100);
+}
+
+.business-growth1,
+.business-growth2 {
+  left: 857px;
+  color: var(--color-gray-200);
+}
+.business-growth2 {
+  left: 1339px;
+}

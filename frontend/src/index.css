@@ -1,0 +1,37 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  margin: 0;
+  box-sizing: none; 
+  /* fonts */
+  --font-pop: 'Poppins', sans-serif;
+  
+  
+  /* font sizes */
+  
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-lg: 16px;
+  --font-size-5xl: 20px;
+  --font-size-xl: 18px;
+  --font-size-21xl: 30px;
+  --font-size-31xl: 40px;
+  --font-size-11xl: 25px;
+  --font-size-sm: 15px;
+  --font-size-104xl: 120px;
+  --font-size-7xl: 20px; 
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightslategray: #8f8da0;
+  --color-slategray: #726f84; 
+  --color-gray-100: #fcfcfc;
+  --color-gray-200: #0f0d1d;
+  --color-royalblue-100: #3c72fc;
+  --color-whitesmoke: #f2f4f8;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-81xl: 100px;
+}

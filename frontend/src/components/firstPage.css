@@ -1,0 +1,40 @@
+.firstpage {
+    position: relative;
+    display: inline-block;
+}
+
+.rectangle-icon {
+    position: absolute;
+    top: 273px;
+    left: 221px;
+    width: 309px;
+    height: 53px;
+  }
+  .consulting-for-everybusiness,
+  .welcome-to-codeshaper {
+    position: absolute;
+    text-transform: uppercase;
+    color: var(--color-gray-100);
+  }
+  .welcome-to-codeshaper {
+    top: 285px;
+    left: 240px;
+    font-size: var(--font-size-xl);
+    letter-spacing: 0.04px;
+    line-height: 33px;
+    font-weight: 500;
+  }
+  .consulting-for-everybusiness {
+    top: 350px;
+    left: 221px;
+    font-size: 70px;
+    letter-spacing: -0.03px;
+    line-height: 100px;
+  }
+  .group-button {
+    border-radius: 0%;
+    width: 248px;
+    position: absolute;
+    top: 750px;
+    left: 221px;
+  }

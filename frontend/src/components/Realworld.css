@@ -1,0 +1,143 @@
+.real-world-experience {
+  position: absolute;
+  top: 1203px;
+  left: 670px;
+  font-size: var(--font-size-31xl);
+  letter-spacing: -0.02px;
+  line-height: 60px;
+}
+.the-best-business {
+  position: absolute;
+  top: 1286px;
+  left: 730px; 
+  font-size: var(--font-size-lg);
+  letter-spacing: 0px;
+  color: var(--color-slategray);
+}
+
+.web-1920-1-child60 {
+  position: absolute;
+  top: 1399px;
+  left: 219px;
+  width: 467px;
+  height: 296px;
+}
+
+.web-1920-1-child4,
+.web-1920-1-child5 {
+  position: absolute;
+  top: 1400px;
+  left: 712px;
+  width: 467px;
+  height: 296px;
+}
+.web-1920-1-child5 {
+  top: 1401px;
+  left: 1209px;
+}
+
+.wealth-management,
+.wealth-management1,
+.wealth-management2 {
+  position: absolute;
+  top: 1478px;
+  left: 295px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.05px;
+  line-height: 34px;
+  font-weight: 600;
+}
+.wealth-management1,
+.wealth-management2 {
+  top: 1479px;
+  left: 788px;
+}
+.wealth-management2 {
+  top: 1480px;
+  left: 1285px;
+}
+.read-more {
+  position: absolute;
+  top: 1577px;
+  left: 295px;
+}
+.read-more1,
+.read-more2 {
+  position: absolute;
+  top: 1578px;
+  left: 788px;
+}
+.read-more2 {
+  top: 1579px;
+  left: 1285px;
+}
+
+.icon-awesome-bitbucket,
+.icon-awesome-bitbucket1,
+.icon-awesome-bitbucket2 {
+  position: relative;
+ display: inline-block;
+  width: 106.76px;
+  height: 96px;
+  top: 1490px;
+  padding: 0px 20px; 
+}
+
+.icon-awesome-bitbucket2 {
+ left: 300px;
+}
+
+.icon-awesome-bitbucket1{
+  left: 900px;
+}
+
+.icon-awesome-bitbucket{
+  left: 1500px;
+}
+
+.path-6-icon,
+.web-1920-1-child9 {
+  position: absolute;
+  top: 1852.5px;
+  left: 221px;
+  width: 636.42px;
+  height: 1px;
+}
+.web-1920-1-child9 {
+  left: 1038px;
+  width: 642px;
+  height: 2px;
+}
+.meet-the-partners {
+  position: absolute;
+  top: 1842px;
+  left: 867px;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+.web-1920-1-child10,
+.web-1920-1-child11 {
+  position: absolute;
+  top: 1952px;
+  left: 221px;
+  width: 47px;
+  height: 47px;
+}
+.web-1920-1-child11 {
+  top: 1954px;
+  left: 1634px;
+}
+.icon-awesome-arrow-left,
+.icon-awesome-arrow-left1 {
+  position: absolute;
+  top: 1966px;
+  left: 235px;
+  width: 20px;
+  height: 20px;
+}
+.icon-awesome-arrow-left1 {
+  top: 1967.01px;
+  left: 1646px;
+}
+

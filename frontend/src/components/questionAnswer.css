@@ -1,0 +1,19 @@
+.years-of-expeirence {
+    position: absolute;
+    top: 118px;
+    left: 65px;
+    font-size: var(--font-size-lg);
+    line-height: 25px;
+    text-align: center;
+  }
+
+  .question-answers {
+    position: absolute;
+    top: 4973px;
+    left: 753px;
+    font-size: var(--font-size-31xl);
+    letter-spacing: -0.02px;
+    line-height: 60px;
+    color: var(--color-gray-200);
+    text-align: center;
+  }

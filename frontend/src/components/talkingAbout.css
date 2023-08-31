@@ -1,0 +1,135 @@
+.talking {
+    position: relative;
+    display: inline-flex;
+}
+
+.what-they-are {
+    position: absolute;
+    top: 5700px;
+    left: 227px;
+    font-size: 55px;
+    letter-spacing: -0.02px;
+    line-height: 70px;
+    text-transform: uppercase;
+    color: var(--color-gray-200);
+  }
+  .trusted-by-more {
+    position: absolute;
+    top: 6150px;
+    left: 227px;
+    font-size: var(--font-size-lg);
+    letter-spacing: -0.01px;
+    line-height: 30px;
+    font-weight: 500;
+    color: var(--color-slategray);
+  }
+  .ellipse-icon,
+  .web-1920-1-child34 {
+    position: absolute;
+    top: 6261.72px;
+    left: 227px;
+    width: 65px;
+    height: 65px;
+  }
+  .web-1920-1-child34 {
+    left: 307px;
+  }
+  .icon-feather-arrow-left,
+  .icon-feather-arrow-left1 {
+    position: absolute;
+    top: 6282.22px;
+    left: 247.5px;
+    width: 24px;
+    height: 24px;
+  }
+  .icon-feather-arrow-left1 {
+    left: 327.5px;
+  }
+  .web-1920-1-child35,
+  .web-1920-1-child36 {
+    position: absolute;
+    top: 5875px;
+    left: 657px;
+    width: 587px;
+    height: 523px;
+  }
+  .web-1920-1-child36 {
+    top: 5878px;
+    left: 1151px;
+  }
+  .lorem-ipsum-is,
+  .lorem-ipsum-is1 {
+    position: absolute;
+    top: 5980px;
+    left: 757px;
+    font-size: var(--font-size-lg);
+    letter-spacing: -0.01px;
+    line-height: 34px;
+    font-weight: 500;
+    color: var(--color-slategray);
+    display: inline-block;
+    width: 381px;
+  }
+  .lorem-ipsum-is1 {
+    top: 5983px;
+    left: 1251px;
+  }
+  .customer,
+  .customer1,
+  .todd-higgins,
+  .todd-higgins1 {
+    position: absolute;
+    top: 6207px;
+    left: 757px;
+    letter-spacing: -0.01px;
+    line-height: 26px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--color-royalblue-100);
+  }
+  .customer,
+  .customer1,
+  .todd-higgins1 {
+    top: 6210px;
+    left: 1251px;
+  }
+  .customer,
+  .customer1 {
+    top: 6236px;
+    left: 757px;
+    font-size: var(--font-size-xs);
+    letter-spacing: 0.02px;
+    line-height: 22px;
+    font-weight: 500;
+    color: var(--color-slategray);
+  }
+  .customer1 {
+    top: 6239px;
+    left: 1251px;
+  }
+  .testimonials-1-iocn-icon,
+  .testimonials-1-iocn-icon1 {
+    position: absolute;
+    top: 6218px;
+    left: 1043px;
+    width: 99px;
+    height: 55px;
+    display: none;
+  }
+  .testimonials-1-iocn-icon1 {
+    top: 6221px;
+    left: 1537px;
+  }
+  .testimonials-1-1-icon,
+  .testimonials-1-1-icon1 {
+    position: absolute;
+    top: 6279px;
+    left: 757px;
+    width: 111px;
+    height: 111px;
+    display: none;
+  }
+  .testimonials-1-1-icon1 {
+    top: 6282px;
+    left: 1251px;
+  }
