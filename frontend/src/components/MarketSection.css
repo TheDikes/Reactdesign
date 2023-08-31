@@ -123,9 +123,14 @@
   height: 70px;
 }
 .icon-feather-phone-call {
-  position: relative;
+  /* position: relative;
   width: 28px;
-  height: 28px;
+  height: 28px; */
+  position: absolute;
+  top: 4193px;
+  left: 1200px;
+  width: 33.18px;
+  height: 27px;
 }
 .aivons,
 .div5,
@@ -172,6 +177,7 @@
   height: 572.23px;
 }
 .parent {
+  display: inline-flex;
   top: 1795.42px;
   left: -265.47px;
   width: 2570.3px;
@@ -182,3 +188,4 @@
   font-family: var(--font-pop);
   /* background-color: var(--color-white); */
 }
+

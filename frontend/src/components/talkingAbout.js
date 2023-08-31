@@ -4,7 +4,7 @@ import "./talkingAbout.css";
 const TalkingAbout = () => {
     
 return (
-<div className="talkingtog">
+<div id="talkingtog">
   <div className="talking">
       <b className="what-they-are">WHAT THEY ARE TALKING ABOUT?</b>
      </div>

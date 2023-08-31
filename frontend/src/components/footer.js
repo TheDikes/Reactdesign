@@ -72,7 +72,7 @@ const Footer = () => {
     <img className="path-21-icon" alt="" src="/path-21.svg" />
     <img className="path-22-icon" alt="" src="/path-22.svg" />
     <img
-      className="icon-ionic-logo-linkedin"
+      className="icon-ionic-logo-linkedin1"
       alt=""
       src="/icon-ioniclogolinkedin1.svg"
     />

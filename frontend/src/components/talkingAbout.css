@@ -7,12 +7,13 @@
     position: absolute;
     top: 5700px;
     left: 227px;
-    font-size: 55px;
+    font-size: 55px; 
     letter-spacing: -0.02px;
     line-height: 70px;
     text-transform: uppercase;
     color: var(--color-gray-200);
   }
+
   .trusted-by-more {
     position: absolute;
     top: 6150px;
@@ -132,4 +133,8 @@
   .testimonials-1-1-icon1 {
     top: 6282px;
     left: 1251px;
+  }
+
+  #talkingtog {
+    padding: 2rem;
   }

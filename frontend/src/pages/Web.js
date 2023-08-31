@@ -16,7 +16,7 @@ import "./Web.css";
 
 const Web = () => {
   return (
-<div className="web-1920-1" style={{ width: "1900px", alignItems: "center", positon: "absolute", margin: 0 }}>
+<div className="web-1920-1">
  
      <Header />
      <FirstPage />

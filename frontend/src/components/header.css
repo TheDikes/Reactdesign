@@ -93,14 +93,14 @@
   }
   .icon-simple-facebook {
     position: absolute;
-    top: 57.11px;
+    top: 63.11px;
     left: 1485.2px;
     width: 36px;
     height: 35.78px;
   }
   .icon-ionic-logo-twitter {
     position: absolute;
-    top: 61.5px;
+    top: 67.5px;
     left: 1423.82px;
     width: 33.18px;
     height: 27px;
@@ -109,4 +109,6 @@
     position: relative;
     width: 26.99px;
     height: 26.99px;
+    left: 1370px;
+    top: 65.5px;
   }

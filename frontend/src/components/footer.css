@@ -138,6 +138,76 @@
   color: var(--color-lightslategray);
 }
 
-.foot {
-    
+.email-address,
+.register {
+  position: absolute;
+  top: 7917px;
+  font-size: var(--font-size-xs);
+  line-height: 28px;
+  font-weight: 600;
+}
+.register {
+  border: 0;
+  font-family: var(--font-jost);
+  background-color: transparent;
+  left: 1520px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  text-align: left;
+}
+.email-address {
+  left: 1188px;
+  color: var(--color-lightslategray);
+}
+.web-1920-1-child59 {
+  position: absolute;
+  top: 8150px;
+  left: 221.5px;
+  width: 1472px;
+  height: 1px;
+}
+.copyright-2021-by {
+  position: absolute;
+  top: 8195px;
+  left: 221px;
+  line-height: 27px;
+  font-weight: 600;
+  color: var(--color-lightslategray);
+}
+.icon-simple-facebook1 {
+  position: absolute;
+  top: 8188px;
+  left: 1657.51px;
+  width: 36px;
+  height: 35.78px;
+}
+.icon-ionic-logo-twitter1 {
+  position: absolute;
+  top: 8193px;
+  left: 1596.13px;
+  width: 33.18px;
+  height: 27px;
+}
+
+.icon-ionic-logo-linkedin1 {
+  position: absolute;
+  top: 8193px;
+  left: 1538px;
+  width: 33.18px;
+  height: 27px;
+  }
+
+.path-21-icon,
+.path-22-icon {
+  position: absolute;
+  top: 8190px;
+  left: 1472.61px;
+  width: 33px;
+  height: 33px;
+}
+.path-22-icon {
+   top: 8199px; 
+   left: 1481.67px; 
+  width: 15px;
+  height: 15px;
 }

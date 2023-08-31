@@ -2,20 +2,27 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 :root {
+
+  /* Flex */
+  /* display: flex;
+  text-align: center;
+  align-items: center;
+  max-width: 100%;
+  background-size: cover;
   margin: 0;
-  box-sizing: none; 
+  box-sizing: none;  */
   /* fonts */
   --font-pop: 'Poppins', sans-serif;
   
   
   /* font sizes */
   
-  --font-size-base: 16px;
+  --font-size-base: 10.2px;
   --font-size-xs: 12px;
   --font-size-lg: 16px;
   --font-size-5xl: 20px;
   --font-size-xl: 18px;
-  --font-size-21xl: 30px;
+  --font-size-21xl: 25px;
   --font-size-31xl: 40px;
   --font-size-11xl: 25px;
   --font-size-sm: 15px;

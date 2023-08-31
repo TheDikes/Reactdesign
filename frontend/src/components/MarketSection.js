@@ -10,13 +10,16 @@ const MarketSection = () => {
       <b className="were-leading-in-the">We’re leading in the market</b>
       <div className="lorem-ipsum-is-container">
         <span className="lorem-ipsum-is2">
+          <h5>
           Lorem ipsum is simply free text dolor sit amet, consectetur notted
           adipisicing elit sed do eiusmod tempor incididunt ut labore et
           doloremagna aliqua lonm andhn.
+          </h5>
         </span>
         <span className="we-have-35">
-          We have 35+ years of experience. We offer marketing and consulting
+          <h5>We have 35+ years of experience. We offer marketing and consulting
           services
+          </h5>
         </span>
       </div>
       <img className="group-child2" alt="" src="/rectangle-10.svg" />
