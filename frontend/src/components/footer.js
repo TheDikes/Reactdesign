@@ -6,11 +6,6 @@ const Footer = () => {
     <div>
       <img className="web-1920-1-child" alt="" src="/rectangle-49.svg" />
       <img className="footer-shape-icon" alt="" src="/mainslidershape3.svg" />
-      <img
-      className="icon-ionic-ios-arrow-down"
-      alt=""
-      src="/icon-ioniciosarrowdown.svg"
-    />
     
     <div className="logo-1-group">
       <b className="creativelogo1">CreativeLogo</b>
@@ -20,7 +15,7 @@ const Footer = () => {
     <div className="welcome-to-our">
       Welcome to our consultancy agency. Lore ipsum simply text amet cing
       elit simply text amet cing elit.
-    </div>
+   </div>
     <img className="web-1920-1-child55" alt="" src="/line-26.svg" />
 
     <div className="div2"> 
@@ -43,18 +38,23 @@ const Footer = () => {
       src="/icon-awesomemapmarkeralt.svg"
     /> 66 Broklyn Street New York, USA</div>
    </div>
+  
 
     <b className="explore">EXPLORE</b>
     <b className="about-meet-our-team-case">
-    About 
-    Meet 
-    our Team
-    Case studies 
-    Latest News
-    Contact
+    <div>About</div>
+    <div>Meet our Team</div>
+    <div> Case studies </div>
+    <div>Latest News</div>
+    <div>Contact</div>
     </b>
-    
-    <b className="support-terms-of-use-privacy">{`Support Terms of use Privacy & Policy Help`}</b>
+
+    <b className="support-terms-of-use-privacy">
+        <div>Support </div>
+        <div>Terms of use</div>
+       <div>Privacy & Policy</div>
+       <div>Help</div>
+        </b>
     <b className="newsletter">NEWSLETTER</b>
     <img className="web-1920-1-child56" alt="" src="/rectangle-50.svg" />
     <b className="subscribe-for-latest">

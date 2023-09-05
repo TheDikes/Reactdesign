@@ -112,9 +112,12 @@
   line-height: 50px;
   color: var(--color-lightslategray);
 }
+
 .support-terms-of-use-privacy {
-  left: 896px;
+  left: 890px;
+
 }
+
 .newsletter {
   position: absolute;
   top: 7719px;

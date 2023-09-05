@@ -1,10 +1,10 @@
 .background-icon, 
 .web-1920-1-item {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: -5785px;
+  left: 1.5px;
   width: 1920px;
-  height: 8285px;  
+  height: 8285px; 
 }
 
 /* .web-1920-1-item {
@@ -12,11 +12,11 @@
     height: 715px;  
   } */
 
-  .web-1920-1-item {
+  /* .web-1920-1-item {
     top: 0;
     width: 2219px;
     height: 8331px;
-  }
+  } */
 
   .web-1920-1-inner {
     position: absolute;
@@ -63,12 +63,12 @@
     border: 0;
     padding: 0;
     background-color: transparent;
-    background-size: contain;
     position: absolute;
     top: 72px;
     left: 270px;
     font-size: var(--font-size-xl);
     letter-spacing: 0.16px;
+    word-spacing: 25px;
     text-transform: uppercase;
     font-weight: 600;
     font-family: var(--font-Poppins);
@@ -112,3 +112,27 @@
     left: 1370px;
     top: 65.5px;
   }
+
+  .icon-feather-instagram {
+    text-decoration: none;
+    position: absolute;
+    top: 66px;
+    left: 1301.8px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .icon-ionic-ios-arrow-down,
+.logo-1-icon {
+  position: absolute;
+  top: 90px;
+  left: 440px;
+  width: 14.62px;
+  height: 8.5px;
+}
+.logo-1-icon {
+  top: 0;
+  left: 0;
+  width: 42px;
+  height: 40px;
+}

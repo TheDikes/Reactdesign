@@ -46,16 +46,19 @@
 .lorem-ipsum-is2 {
   font-weight: 500;
 }
+
 .we-have-35 {
   font-size: var(--font-size-7xl);
   color: var(--color-royalblue-100);
 }
+
 .lorem-ipsum-is-container {
   position: absolute;
   top: 699.58px;
   left: 1234.47px;
   line-height: 34px;
   font-size: var(--font-size-lg);
+  z-index: 2;
 }
 .group-child2,
 .group-child3,
@@ -123,12 +126,12 @@
   height: 70px;
 }
 .icon-feather-phone-call {
-  /* position: relative;
+  position: relative;
   width: 28px;
-  height: 28px; */
+  height: 28px;
   position: absolute;
-  top: 4193px;
-  left: 1200px;
+  top: 1160px;
+  left: 1255px;
   width: 33.18px;
   height: 27px;
 }
@@ -185,7 +188,6 @@
   text-align: left;
   font-size: var(--font-size-sm);
   color: var(--color-slategray);
-  font-family: var(--font-pop);
-  /* background-color: var(--color-white); */
+  font-family: var(--font-pop); 
 }
 

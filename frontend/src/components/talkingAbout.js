@@ -10,7 +10,7 @@ return (
      </div>
       <div className="trusted-by-more">
         Trusted by more than 4,200 customers
-</div>
+         </div>
       <img className="ellipse-icon" alt="" src="/ellipse-1.svg" />
       <img className="web-1920-1-child34" alt="" src="/ellipse-2.svg" />
       <img

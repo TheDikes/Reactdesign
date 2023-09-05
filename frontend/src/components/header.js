@@ -38,8 +38,13 @@ const Header = () => {
      </button> 
 
     <img className="web-1920-1-inner" alt="" src="/line-1.svg" />
+    <img
+      className="icon-ionic-ios-arrow-down"
+      alt=""
+      src="/icon-ioniciosarrowdown.svg"
+    />
     <button className="home">
-      Home Services Pages Case Shop Blog Content
+      Home Services Pages Case-Shop Blog Content
     </button>
     <img className="line-icon" alt="" src="/line-2.svg" />
     <img className="web-1920-1-child1" alt="" src="/line-2.svg" />

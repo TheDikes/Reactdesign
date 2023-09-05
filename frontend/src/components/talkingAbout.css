@@ -1,6 +1,7 @@
 .talking {
     position: relative;
     display: inline-flex;
+   
 }
 
 .what-they-are {
@@ -16,7 +17,7 @@
 
   .trusted-by-more {
     position: absolute;
-    top: 6150px;
+    top: 6210px;
     left: 227px;
     font-size: var(--font-size-lg);
     letter-spacing: -0.01px;
@@ -133,8 +134,4 @@
   .testimonials-1-1-icon1 {
     top: 6282px;
     left: 1251px;
-  }
-
-  #talkingtog {
-    padding: 2rem;
   }

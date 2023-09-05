@@ -1,3 +1,12 @@
+.we-help-our {
+  position: absolute;
+  top: 3536px;
+  left: 755px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.36px;
+  line-height: 30px;
+  color: var(--color-lightslategray);
+}
 .businesses-growth,
 .businesses-growth1,
 .thought-leadership,

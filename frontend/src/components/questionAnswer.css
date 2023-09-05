@@ -17,3 +17,13 @@
     color: var(--color-gray-200);
     text-align: center;
   }
+
+.we-help-our1 {
+  position: absolute;
+  top: 5056px;
+  left: 800px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.36px;
+  line-height: 30px;
+  color: var(--color-lightslategray);
+}

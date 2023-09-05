@@ -6,15 +6,15 @@ const MarketSection = () => {
       <img className="group-inner" alt="" src="/rectangle-8.svg" />
       <img className="icon-awesome-play" alt="" src="/icon-awesomeplay.svg" />
    
- 
+ <div>
       <b className="were-leading-in-the">We’re leading in the market</b>
       <div className="lorem-ipsum-is-container">
         <span className="lorem-ipsum-is2">
-          <h5>
+          <h6>
           Lorem ipsum is simply free text dolor sit amet, consectetur notted
           adipisicing elit sed do eiusmod tempor incididunt ut labore et
           doloremagna aliqua lonm andhn.
-          </h5>
+          </h6>
         </span>
         <span className="we-have-35">
           <h5>We have 35+ years of experience. We offer marketing and consulting
@@ -22,6 +22,7 @@ const MarketSection = () => {
           </h5>
         </span>
       </div>
+      
       <img className="group-child2" alt="" src="/rectangle-10.svg" />
       <img className="group-child3" alt="" src="/rectangle-11.svg" />
       <img className="group-child4" alt="" src="/rectangle-12.svg" />
@@ -38,6 +39,7 @@ const MarketSection = () => {
       />
       <div className="have-any-question">Have any question? Give us a call</div>
       <div className="div5">+92 666 888 0000</div>
+      </div>
       <div className="aivons">AIVONS</div>
       <img className="path-7-icon" alt="" src="/path-7.svg" />
       <img className="path-8-icon" alt="" src="/path-8.svg" />

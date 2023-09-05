@@ -4,7 +4,7 @@ import "./consultingSolution.css";
 const ConsultingSolution = () => {
   return (
     <div>
-        <img className="counter-one-bg-icon" alt="" src="/mainslidershape3.svg" />
+      <img className="counter-one-bg-icon" alt="" src="/mainslidershape3.svg" />
       <img className="web-1920-1-child37" alt="" src="/rectangle-39.svg" />
       <img className="web-1920-1-child38" alt="" src="/rectangle-40.svg" />
       <img className="web-1920-1-child39" alt="" src="/rectangle-40.svg" />
